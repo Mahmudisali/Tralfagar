@@ -1,0 +1,37 @@
+body {
+    background-color: white;
+}
+
+.nav {
+    display: flex;
+    justify-content: space-between;
+}
+
+#write1 {
+    margin-top: 50px;
+}
+
+#section1 p {
+    color: #7D7987;
+}
+
+#section1 button {
+    background-color: #458FF6;
+    border-radius: 55px;
+    border: 1px solid transparent;
+}
+
+#section1 button  {
+    
+    font-family: 'Mulish';
+    font-style: normal;
+    font-weight: 7;
+    font-size: 18px;
+    line-height: 60px;
+    /* identical to box height, or 333% */
+
+
+    color: #FFFFFF;
+
+    mix-blend-mode: normal;
+}
