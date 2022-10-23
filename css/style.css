@@ -21,8 +21,8 @@ body {
     border: 1px solid transparent;
 }
 
-#section1 button  {
-    
+#section1 button {
+
     font-family: 'Mulish';
     font-style: normal;
     font-weight: 7;
@@ -32,6 +32,183 @@ body {
 
 
     color: #FFFFFF;
+
+    mix-blend-mode: normal;
+}
+
+.texts p {
+    font-family: 'Mulish';
+    font-style: normal;
+    font-weight: 300;
+    font-size: 18px;
+    line-height: 30px;
+    /* or 167% */
+
+    text-align: center;
+
+    color: #7D7987;
+
+    mix-blend-mode: normal;
+
+}
+
+.texts h4 {
+    display: flex;
+    justify-content: center;
+    font-family: 'Mulish';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 36px;
+    line-height: 56px;
+    /* identical to box height, or 156% */
+
+
+    color: #000000;
+
+    mix-blend-mode: normal;
+
+}
+
+.texts h6 {
+    display: flex;
+    justify-content: center;
+
+    border-radius: 5px;
+}
+
+.texts {
+    margin-top: 50px;
+}
+
+.karecik {
+    background: #FFFFFF;
+    /* drop shadow */
+
+    box-shadow: 10px 40px 50px rgba(170, 173, 182, 0.4);
+    border-radius: 20px;
+    width: 30%;
+    height: 200;
+}
+
+.sira1 {
+    display: flex;
+    justify-content: space-between;
+
+}
+
+.sira2 {
+    display: flex;
+    justify-content: space-between;
+    margin-top: 30px;
+}
+
+.karecik {
+    padding: 10px;
+}
+
+.karecik p {
+    color: #7D7987;
+}
+
+#section2 button {
+    background-color: #FFFFFF;
+    border: 1.4px solid #458FF6;
+    border-radius: 55px;
+    font-family: 'Mulish';
+    font-style: normal;
+    font-size: 18px;
+    color: #458FF6;
+    mix-blend-mode: normal;
+    display: flex;
+    justify-content: space-between;
+    margin-top: 50px;
+    align-items: center;
+    margin-left: 45%;
+}
+
+#buttonspecial2 {
+    background-color: #FFFFFF;
+    border: 1.4px solid #458FF6;
+    border-radius: 55px;
+    font-family: 'Mulish';
+    font-style: normal;
+    font-size: 18px;
+    color: #458FF6;
+    mix-blend-mode: normal;
+    display: flex;
+    justify-content: space-between;
+    margin-top: 50px;
+    
+}
+
+#section3 {
+    margin-top: 20%;
+    display: flex;
+    justify-content: space-between;
+    margin: auto;
+}
+#section3 img{
+    margin-top: 20% ;
+}
+
+
+#section3 h3 {
+    font-family: 'Mulish';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 36px;
+    line-height: 56px;
+    /* or 156% */
+    margin-top: 20%;
+
+    color: #000000;
+
+    mix-blend-mode: normal;
+}
+/* 
+#section4 {
+    display: flex;
+    justify-content: space-between;
+    margin-top: 20%;
+} */
+
+
+#buttonspecial3 {
+    background-color: #FFFFFF;
+    border: 1.4px solid #458FF6;
+    border-radius: 55px;
+    font-family: 'Mulish';
+    font-style: normal;
+    font-size: 18px;
+    color: #458FF6;
+    mix-blend-mode: normal;
+    display: flex;
+    justify-content: space-between;
+    margin-top: 50px;
+    
+}
+
+#section4 {
+    margin-top: 20%;
+    display: flex;
+    justify-content: space-between;
+    margin: auto;
+}
+#section4 img{
+    margin-top: 20% ;
+}
+
+
+#section4 h3 {
+    font-family: 'Mulish';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 36px;
+    line-height: 56px;
+    /* or 156% */
+    margin-top: 20%;
+
+    color: #000000;
 
     mix-blend-mode: normal;
 }
