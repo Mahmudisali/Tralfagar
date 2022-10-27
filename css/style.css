@@ -375,6 +375,66 @@ body {
 
     mix-blend-mode: normal
 }
+
+footer {
+    background-color: #458FF6;
+}
+
+.ednav {
+    background-color: #458FF6;
+}
+
+.endnav img {
+    border-radius: 50px;
+    background-color: #FFFFFF;
+    margin: 10px;
+    border: 1px solid #458FF6;
+}
+
+.endnav h3 {
+    color: rgb(255, 255, 255);
+}
+
+.endnav {
+    display: flex;
+    justify-content: flex-start;
+}
+
+footer p {
+    color: #FFFFFF;
+}
+
+footer h6 {
+    color: #FFFFFF;
+}
+
+.eleveeee {
+    margin-right: 20%;
+}
+
+.elaveeee h5 {
+    color: #FFFFFF;
+    font-family: 'Mulish';
+    font-style: normal;
+
+    /* identical to box height, or 300% */
+
+
+    color: #FFFFFF;
+
+    mix-blend-mode: normal;
+}
+
+.boyuk-elave {
+    display: flex;
+    justify-content: space-between;
+}
+
+.theend {
+    display: flex;
+    justify-content: space-between;
+}
 footer{
-    background-color: #4089ED;
+    padding: 50px;
+    margin-top: 20%;
 }
